@@ -10,7 +10,7 @@
 - Apple Music artist: https://music.apple.com/us/artist/dusk-till-midnight/6799394770
 - Label: 13409928 Records DK
 - Artist name: Dusk Till Midnight (not "Dusk till midnight" as a phrase; the name is the project title)
-- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Genres: Bedroom Pop, Dark Alternative R&B
 - Discography: 6 releases, 49 tracks, total runtime 2h 46m
 - Latest release: Velvet Midnight, Goodbye Sadness (Single, 2026-11-04)
 
@@ -49,7 +49,7 @@
 - Spotify: https://open.spotify.com/album/6yvf60ydWnRICBdFu6o9ME
 - All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/fall-into-me
 - UPC: 700813483365
-- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Genres: Bedroom Pop, Dark Alternative R&B
 - Description: Six songs about gravity — the soft kind, the kind you agree to.
 
 ### 5. Liar, liar, liar, tangled up in you — EP, released 2026-10-14, 5 tracks
@@ -57,7 +57,7 @@
 - Apple Music: https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you-ep/6822630689?uo=4
 - Spotify: https://open.spotify.com/album/3plgh3dzjwtfIVHuNT1xeg
 - All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/liar-liar-liar-tangled-up-in-you
-- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Genres: Bedroom Pop, Dark Alternative R&B
 - Description: A tangle of whispers, orbits and slow confessions.
 
 ### 6. Velvet Midnight, Goodbye Sadness — Single, released 2026-11-04, 3 tracks
@@ -108,15 +108,15 @@
 | 34 | jasmine rain | Midnight Lavender Mist | QT9XG2674528 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate | 3:05 | https://youtu.be/JuX3jKiMuY0 | https://music.apple.com/us/album/jasmine-rain/6811294357?i=6811294367&uo=4 |
 | 35 | inside the floor | Midnight Lavender Mist | QT9XG2674529 | Dark Alternative R&B, Bedroom Pop | Hypnotic, Slow-Burn | 2:24 | https://youtu.be/QmnLWnpWH_4 | https://music.apple.com/us/album/inside-the-floor/6811294357?i=6811294368&uo=4 |
 | 36 | Fall into me | Fall into me | QT9XL2694095 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate, Slow-Burn | 4:02 | https://youtu.be/7XzHZJEuOBU | https://music.apple.com/us/album/fall-into-me/6813711824?i=6813711828&uo=4 |
-| 37 | Midnight Onyx | Fall into me | QT9XL2694096 | Dark Alternative R&B, Night Drive | 2 AM Solitude, Hypnotic | 3:28 | https://youtu.be/u4GX57kCFKg | https://music.apple.com/us/album/midnight-onyx/6813711824?i=6813711829&uo=4 |
-| 38 | Crimson Honey | Fall into me | QT9XL2694097 | Dark Alternative R&B, Night Drive | Intimate, Slow-Burn | 3:20 | https://youtu.be/9MiorCnl5Oo | https://music.apple.com/us/album/crimson-honey/6813711824?i=6813711830&uo=4 |
-| 39 | blooming slow | Fall into me | QT9XL2694098 | Dark Alternative R&B, Night Drive | Hypnotic, Intimate | 3:34 | https://youtu.be/qxzItGhCO9g | https://music.apple.com/us/album/blooming-slow/6813711824?i=6813711831&uo=4 |
-| 40 | Velvet Dawn | Fall into me | QT9XL2694099 | Dark Alternative R&B, Night Drive | Intimate, Hypnotic | 3:48 | https://youtu.be/2BMhRDjU1Qs | https://music.apple.com/us/album/velvet-dawn/6813711824?i=6813711833&uo=4 |
-| 41 | Velvet nectar | Fall into me | QT9XL2694100 | Dark Alternative R&B, Night Drive | 2 AM Solitude, Slow-Burn | 3:03 | https://youtu.be/JJmMYkqPBCU | https://music.apple.com/us/album/velvet-nectar/6813711824?i=6813711834&uo=4 |
-| 42 | Liar, liar, liar, tangled up in you | Liar, liar, liar, tangled up in you | QTA7W2681698 | Dark Alternative R&B, Night Drive | Melancholy, Hypnotic | 3:58 | https://youtu.be/5wNtiNLY988 | https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you/6822630689?i=6822630691&uo=4 |
+| 37 | Midnight Onyx | Fall into me | QT9XL2694096 | Dark Alternative R&B | 2 AM Solitude, Hypnotic | 3:28 | https://youtu.be/u4GX57kCFKg | https://music.apple.com/us/album/midnight-onyx/6813711824?i=6813711829&uo=4 |
+| 38 | Crimson Honey | Fall into me | QT9XL2694097 | Dark Alternative R&B | Intimate, Slow-Burn | 3:20 | https://youtu.be/9MiorCnl5Oo | https://music.apple.com/us/album/crimson-honey/6813711824?i=6813711830&uo=4 |
+| 39 | blooming slow | Fall into me | QT9XL2694098 | Dark Alternative R&B | Hypnotic, Intimate | 3:34 | https://youtu.be/qxzItGhCO9g | https://music.apple.com/us/album/blooming-slow/6813711824?i=6813711831&uo=4 |
+| 40 | Velvet Dawn | Fall into me | QT9XL2694099 | Dark Alternative R&B | Intimate, Hypnotic | 3:48 | https://youtu.be/2BMhRDjU1Qs | https://music.apple.com/us/album/velvet-dawn/6813711824?i=6813711833&uo=4 |
+| 41 | Velvet nectar | Fall into me | QT9XL2694100 | Dark Alternative R&B | 2 AM Solitude, Slow-Burn | 3:03 | https://youtu.be/JJmMYkqPBCU | https://music.apple.com/us/album/velvet-nectar/6813711824?i=6813711834&uo=4 |
+| 42 | Liar, liar, liar, tangled up in you | Liar, liar, liar, tangled up in you | QTA7W2681698 | Dark Alternative R&B | Melancholy, Hypnotic | 3:58 | https://youtu.be/5wNtiNLY988 | https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you/6822630689?i=6822630691&uo=4 |
 | 43 | Follow me | Liar, liar, liar, tangled up in you | QTA7W2681699 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Hypnotic | 3:53 | https://youtu.be/8-M7kKe0rMQ | https://music.apple.com/us/album/follow-me/6822630689?i=6822630916&uo=4 |
-| 44 | Hey whisper, what's up | Liar, liar, liar, tangled up in you | QTA7W2681700 | Dark Alternative R&B, Night Drive | Hypnotic, Intimate | 2:17 | https://youtu.be/7rLtQSJd8Bg | https://music.apple.com/us/album/hey-whisper-whats-up/6822630689?i=6822630920&uo=4 |
-| 45 | In My Orbit | Liar, liar, liar, tangled up in you | QTA7W2681701 | Dark Alternative R&B, Night Drive | Slow-Burn, Melancholy | 3:33 | https://youtu.be/64WS3P16k0k | https://music.apple.com/us/album/in-my-orbit/6822630689?i=6822630924&uo=4 |
+| 44 | Hey whisper, what's up | Liar, liar, liar, tangled up in you | QTA7W2681700 | Dark Alternative R&B | Hypnotic, Intimate | 2:17 | https://youtu.be/7rLtQSJd8Bg | https://music.apple.com/us/album/hey-whisper-whats-up/6822630689?i=6822630920&uo=4 |
+| 45 | In My Orbit | Liar, liar, liar, tangled up in you | QTA7W2681701 | Dark Alternative R&B | Slow-Burn, Melancholy | 3:33 | https://youtu.be/64WS3P16k0k | https://music.apple.com/us/album/in-my-orbit/6822630689?i=6822630924&uo=4 |
 | 46 | Tell me the truth slowly | Liar, liar, liar, tangled up in you | QTA7W2681702 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Melancholy | 3:10 | https://youtu.be/tV25goeg8us | https://music.apple.com/us/album/tell-me-the-truth-slowly/6822630689?i=6822630928&uo=4 |
 | 47 | Velvet Midnight, Goodbye Sadness | Velvet Midnight, Goodbye Sadness | QTAEW2690848 | Dark Alternative R&B, Bedroom Pop | Midnight Solitude, Slow-Burn | 3:57 | https://youtu.be/7YX2ASUKNxw | https://music.apple.com/us/album/velvet-midnight-goodbye-sadness/6830676324?i=6830676326&uo=4 |
 | 48 | Tsk. just stop 그만 멈춰 | Velvet Midnight, Goodbye Sadness | QTAEW2690849 | Dark Alternative R&B, Bedroom Pop | Hypnotic, Intimate, Slow-Burn | 3:22 | https://youtu.be/Fqjmgfy6uZQ | https://music.apple.com/us/album/tsk-just-stop-%EA%B7%B8%EB%A7%8C-%EB%A9%88%EC%B6%B0/6830676324?i=6830676328&uo=4 |
