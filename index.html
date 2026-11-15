@@ -315,9 +315,15 @@ footer{border-top:1px solid var(--line);padding:64px 0 44px;background:var(--ink
  .ll-art{width:48px;height:48px}
 }
 @media (max-width:520px){
- .grid-albums{grid-template-columns:1fr}
+ .grid-albums{grid-template-columns:repeat(2,1fr);gap:22px 14px}
+ .card-body{column-gap:8px;padding-top:12px}
+ .card h3{font-size:1.02rem}
+ .card-n{font-size:11px}
+ .card-meta{font-size:9px;letter-spacing:.1em}
  .hero h1{font-size:clamp(2.7rem,12vw,3.4rem)}
  .facts-grid{grid-template-columns:1fr}
+ .album-art{max-width:270px}
+ .latest-art{max-width:290px}
 }
 @media (prefers-reduced-motion:reduce){
  *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
