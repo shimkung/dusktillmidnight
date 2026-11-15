@@ -1,0 +1,130 @@
+# Dusk Till Midnight
+
+> Dusk Till Midnight is a dark alternative R&B and bedroom pop project releasing slow-burn, after-hours music since August 2026. The discography is six releases — three albums, two EPs and one single — totalling 49 tracks, all released through the label 13409928 Records DK and distributed by DistroKid. This file gives AI assistants and search crawlers the artist identity, the complete album and track list with ISRCs, and the official links for every recording.
+
+## Official presence
+
+- Official website: https://shimkung.github.io/dusktillmidnight/
+- YouTube: https://www.youtube.com/@DuskTillMidnight
+- Label: 13409928 Records DK
+- Artist name: Dusk Till Midnight (not "Dusk till midnight" as a phrase; the name is the project title)
+- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Discography: 6 releases, 49 tracks, total runtime 2h 46m
+- Latest release: Velvet Midnight, Goodbye Sadness (Single, 2026-11-04)
+
+## Albums (chronological)
+
+### 1. After Dark Echoes — Album, released 2026-08-08, 13 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-after-dark-echoes
+- Apple Music: https://music.apple.com/us/album/after-dark-echoes/6799456978?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/after-dark-echoes
+- UPC: 881864322275
+- Genres: Bedroom Pop, Dark Alternative R&B
+- Description: The first record: thirteen rooms after everyone has gone to bed.
+
+### 2. Dusk Till Midnight — Album, released 2026-09-03, 11 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-dusk-till-midnight
+- Apple Music: https://music.apple.com/us/album/dusk-till-midnight/6808094501?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/dusk-till-midnight
+- UPC: 700997421825
+- Genres: Bedroom Pop, Dark Alternative R&B
+- Description: Eleven songs that keep the lights low and the clock slow.
+
+### 3. Midnight Lavender Mist — Album, released 2026-09-11, 11 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-midnight-lavender-mist
+- Apple Music: https://music.apple.com/us/album/midnight-lavender-mist/6811294357?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/midnight-lavender-mist
+- UPC: 700971007526
+- Genres: Bedroom Pop, Dark Alternative R&B
+- Description: Lavender air, glass shadows, a tide that never quite arrives.
+
+### 4. Fall into me — EP, released 2026-09-17, 6 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-fall-into-me
+- Apple Music: https://music.apple.com/us/album/fall-into-me-ep/6813711824?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/fall-into-me
+- UPC: 700813483365
+- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Description: Six songs about gravity — the soft kind, the kind you agree to.
+
+### 5. Liar, liar, liar, tangled up in you — EP, released 2026-10-14, 5 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-liar-liar-liar
+- Apple Music: https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you-ep/6822630689?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/liar-liar-liar-tangled-up-in-you
+- Genres: Bedroom Pop, Dark Alternative R&B, Night Drive
+- Description: A tangle of whispers, orbits and slow confessions.
+
+### 6. Velvet Midnight, Goodbye Sadness — Single, released 2026-11-04, 3 tracks
+- Album page: https://shimkung.github.io/dusktillmidnight/#album-velvet-midnight-goodbye-sadness
+- Apple Music: https://music.apple.com/us/album/velvet-midnight-goodbye-sadness-single/6830676324?uo=4
+- All platforms: https://distrokid.com/hyperfollow/dusktillmidnight/velvet-midnight-goodbye-sadness
+- Genres: Bedroom Pop, Dark Alternative R&B
+- Description: Three songs for the moment a goodbye becomes a habit.
+
+## Complete catalog (49 tracks)
+
+| # | Track | Album | ISRC | Genre | Mood | Duration | YouTube | Apple Music |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | clock strikes three | After Dark Echoes | QT6S62602934 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn, Hypnotic | 3:15 | https://youtu.be/jkEQnix08nw | https://music.apple.com/us/album/clock-strikes-three/6799456978?i=6799456979&uo=4 |
+| 2 | Hands are steady | After Dark Echoes | QT6S62602935 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn, Intimate | 3:08 | https://youtu.be/FWasawE2fIg | https://music.apple.com/us/album/hands-are-steady/6799456978?i=6799456980&uo=4 |
+| 3 | Just breathing | After Dark Echoes | QT6S62602936 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Melancholy | 2:38 | https://youtu.be/mk2QUP7fdWE | https://music.apple.com/us/album/just-breathing/6799456978?i=6799456981&uo=4 |
+| 4 | Catch me softly as I fall | After Dark Echoes | QT6S62602937 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn, Melancholy | 3:48 | https://youtu.be/LQ9GL9jvFDU | https://music.apple.com/us/album/catch-me-softly-as-i-fall/6799456978?i=6799456982&uo=4 |
+| 5 | Shadows dance | After Dark Echoes | QT6S62602938 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Slow-Burn | 4:42 | https://youtu.be/ypcyf1gpg1U | https://music.apple.com/us/album/shadows-dance/6799456978?i=6799456983&uo=4 |
+| 6 | in the room | After Dark Echoes | QT6S62602939 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate, Slow-Burn | 3:26 | https://youtu.be/OSMNAbNgyFQ | https://music.apple.com/us/album/in-the-room/6799456978?i=6799456984&uo=4 |
+| 7 | Velvet illusion | After Dark Echoes | QT6S62602940 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate, Slow-Burn | 3:05 | https://youtu.be/PrgbYt42V9s | https://music.apple.com/us/album/velvet-illusion/6799456978?i=6799456985&uo=4 |
+| 8 | The quiet room | After Dark Echoes | QT6S62602941 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn, Melancholy | 3:05 | https://youtu.be/5VZi_ddzLMs | https://music.apple.com/us/album/the-quiet-room/6799456978?i=6799456986&uo=4 |
+| 9 | midnight magic | After Dark Echoes | QT6S62602942 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Slow-Burn | 3:28 | https://youtu.be/ks9e75pKcL8 | https://music.apple.com/us/album/midnight-magic/6799456978?i=6799456987&uo=4 |
+| 10 | Underneath | After Dark Echoes | QT6S62602943 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate, Slow-Burn | 2:58 | https://youtu.be/h4SVsNm5-kg | https://music.apple.com/us/album/underneath/6799456978?i=6799456988&uo=4 |
+| 11 | Heart is beating | After Dark Echoes | QT6S62602944 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Slow-Burn | 4:12 | https://youtu.be/vxwk94smaWw | https://music.apple.com/us/album/heart-is-beating/6799456978?i=6799456989&uo=4 |
+| 12 | Your silent touch speaks | After Dark Echoes | QT6S62602945 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Slow-Burn | 3:22 | https://youtu.be/ln3VYrHyqbc | https://music.apple.com/us/album/your-silent-touch-speaks/6799456978?i=6799456990&uo=4 |
+| 13 | Turn off the light | After Dark Echoes | QT6S62602946 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic, Slow-Burn | 3:48 | https://youtu.be/DTHtPB4cs7Q | https://music.apple.com/us/album/turn-off-the-light/6799456978?i=6799456991&uo=4 |
+| 14 | Midnight Pearl | Dusk Till Midnight | QT6HZ2685392 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 3:25 | https://youtu.be/3KcmDaXHTog | https://music.apple.com/us/album/midnight-pearl/6808094501?i=6808094502&uo=4 |
+| 15 | A slow silhouette upon the slate | Dusk Till Midnight | QT6HZ2685393 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn | 3:52 | https://youtu.be/7okswavtxmc | https://music.apple.com/us/album/a-slow-silhouette-upon-the-slate/6808094501?i=6808094503&uo=4 |
+| 16 | midnight groove | Dusk Till Midnight | QT6HZ2685394 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 3:28 | https://youtu.be/UW4f3MPw4w8 | https://music.apple.com/us/album/midnight-groove/6808094501?i=6808094504&uo=4 |
+| 17 | Lavender mist | Dusk Till Midnight | QT6HZ2685395 | Dark Alternative R&B | Hypnotic, Intimate | 2:52 | https://youtu.be/qi28bPGk0Nk | https://music.apple.com/us/album/lavender-mist/6808094501?i=6808094505&uo=4 |
+| 18 | Digging so deep | Dusk Till Midnight | QT6HZ2685396 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn | 2:52 | https://youtu.be/rCvLzbprnwU | https://music.apple.com/us/album/digging-so-deep/6808094501?i=6808094506&uo=4 |
+| 19 | your skin | Dusk Till Midnight | QT6HZ2685397 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Melancholy | 3:12 | https://youtu.be/d-HusK61Tfc | https://music.apple.com/us/album/your-skin/6808094501?i=6808094507&uo=4 |
+| 20 | Close your eyes | Dusk Till Midnight | QT6HZ2685398 | Dark Alternative R&B, Bedroom Pop | Intimate, Slow-Burn | 3:09 | https://youtu.be/nbYjloIprvM | https://music.apple.com/us/album/close-your-eyes/6808094501?i=6808094508&uo=4 |
+| 21 | The clock slows down | Dusk Till Midnight | QT6HZ2685399 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Slow-Burn | 3:47 | https://youtu.be/0fOK_K-4cCA | https://music.apple.com/us/album/the-clock-slows-down/6808094501?i=6808094509&uo=4 |
+| 22 | Silence burns | Dusk Till Midnight | QT6HZ2685400 | Dark Alternative R&B, Bedroom Pop | Melancholy, Slow-Burn | 2:51 | https://youtu.be/qZMkjmNjrGU | https://music.apple.com/us/album/silence-burns/6808094501?i=6808094510&uo=4 |
+| 23 | The seconds linger in the gloom | Dusk Till Midnight | QT6HZ2685401 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 3:57 | https://youtu.be/9XdFFw4M0so | https://music.apple.com/us/album/the-seconds-linger-in-the-gloom/6808094501?i=6808094511&uo=4 |
+| 24 | We are just floating | Dusk Till Midnight | QT6HZ2685402 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Intimate | 3:02 | https://youtu.be/TdsoPU0ugSI | https://music.apple.com/us/album/we-are-just-floating/6808094501?i=6808094512&uo=4 |
+| 25 | Beautiful silence | Midnight Lavender Mist | QT9XG2674518 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Melancholy | 3:04 | https://youtu.be/3ddu7GyR1RQ | https://music.apple.com/us/album/beautiful-silence/6811294357?i=6811294358&uo=4 |
+| 26 | Melting inside of this room | Midnight Lavender Mist | QT9XG2674519 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 4:35 | https://youtu.be/lIQjfgNzKhk | https://music.apple.com/us/album/melting-inside-of-this-room/6811294357?i=6811294359&uo=4 |
+| 27 | slow tide | Midnight Lavender Mist | QT9XG2674520 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 3:51 | https://youtu.be/SwDGgf5iiB4 | https://music.apple.com/us/album/slow-tide/6811294357?i=6811294360&uo=4 |
+| 28 | silent, steady spark | Midnight Lavender Mist | QT9XG2674521 | Dark Alternative R&B, Bedroom Pop | Intimate, Slow-Burn | 3:06 | https://youtu.be/VmEysfDRpqs | https://music.apple.com/us/album/silent-steady-spark/6811294357?i=6811294361&uo=4 |
+| 29 | Shadows on the glass | Midnight Lavender Mist | QT9XG2674523 | Dark Alternative R&B, Bedroom Pop | Hypnotic, Slow-Burn | 2:23 | https://youtu.be/3cGDmp0wsjU | https://music.apple.com/us/album/shadows-on-the-glass/6811294357?i=6811294362&uo=4 |
+| 30 | Satin Smoke | Midnight Lavender Mist | QT9XG2674524 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Melancholy | 3:02 | https://youtu.be/NbJZ2RosdW0 | https://music.apple.com/us/album/satin-smoke/6811294357?i=6811294363&uo=4 |
+| 31 | satin gravity | Midnight Lavender Mist | QT9XG2674525 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 2:52 | https://youtu.be/HS0s2sXIj1E | https://music.apple.com/us/album/satin-gravity/6811294357?i=6811294364&uo=4 |
+| 32 | midnight sapphire current | Midnight Lavender Mist | QT9XG2674526 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Hypnotic | 3:44 | https://youtu.be/_2E-3KSDYfs | https://music.apple.com/us/album/midnight-sapphire-current/6811294357?i=6811294365&uo=4 |
+| 33 | Like melted bronze | Midnight Lavender Mist | QT9XG2674527 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Hypnotic | 2:58 | https://youtu.be/47VzjPAfC3Q | https://music.apple.com/us/album/like-melted-bronze/6811294357?i=6811294366&uo=4 |
+| 34 | jasmine rain | Midnight Lavender Mist | QT9XG2674528 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate | 3:05 | https://youtu.be/JuX3jKiMuY0 | https://music.apple.com/us/album/jasmine-rain/6811294357?i=6811294367&uo=4 |
+| 35 | inside the floor | Midnight Lavender Mist | QT9XG2674529 | Dark Alternative R&B, Bedroom Pop | Hypnotic, Slow-Burn | 2:24 | https://youtu.be/QmnLWnpWH_4 | https://music.apple.com/us/album/inside-the-floor/6811294357?i=6811294368&uo=4 |
+| 36 | Fall into me | Fall into me | QT9XL2694095 | Dark Alternative R&B, Bedroom Pop | 2 AM Solitude, Intimate, Slow-Burn | 4:02 | https://youtu.be/7XzHZJEuOBU | https://music.apple.com/us/album/fall-into-me/6813711824?i=6813711828&uo=4 |
+| 37 | Midnight Onyx | Fall into me | QT9XL2694096 | Dark Alternative R&B, Night Drive | 2 AM Solitude, Hypnotic | 3:28 | https://youtu.be/u4GX57kCFKg | https://music.apple.com/us/album/midnight-onyx/6813711824?i=6813711829&uo=4 |
+| 38 | Crimson Honey | Fall into me | QT9XL2694097 | Dark Alternative R&B, Night Drive | Intimate, Slow-Burn | 3:20 | https://youtu.be/9MiorCnl5Oo | https://music.apple.com/us/album/crimson-honey/6813711824?i=6813711830&uo=4 |
+| 39 | blooming slow | Fall into me | QT9XL2694098 | Dark Alternative R&B, Night Drive | Hypnotic, Intimate | 3:34 | https://youtu.be/qxzItGhCO9g | https://music.apple.com/us/album/blooming-slow/6813711824?i=6813711831&uo=4 |
+| 40 | Velvet Dawn | Fall into me | QT9XL2694099 | Dark Alternative R&B, Night Drive | Intimate, Hypnotic | 3:48 | https://youtu.be/2BMhRDjU1Qs | https://music.apple.com/us/album/velvet-dawn/6813711824?i=6813711833&uo=4 |
+| 41 | Velvet nectar | Fall into me | QT9XL2694100 | Dark Alternative R&B, Night Drive | 2 AM Solitude, Slow-Burn | 3:03 | https://youtu.be/JJmMYkqPBCU | https://music.apple.com/us/album/velvet-nectar/6813711824?i=6813711834&uo=4 |
+| 42 | Liar, liar, liar, tangled up in you | Liar, liar, liar, tangled up in you | QTA7W2681698 | Dark Alternative R&B, Night Drive | Melancholy, Hypnotic | 3:58 | https://youtu.be/5wNtiNLY988 | https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you/6822630689?i=6822630691&uo=4 |
+| 43 | Follow me | Liar, liar, liar, tangled up in you | QTA7W2681699 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Hypnotic | 3:53 | https://youtu.be/8-M7kKe0rMQ | https://music.apple.com/us/album/follow-me/6822630689?i=6822630916&uo=4 |
+| 44 | Hey whisper, what's up | Liar, liar, liar, tangled up in you | QTA7W2681700 | Dark Alternative R&B, Night Drive | Hypnotic, Intimate | 2:17 | https://youtu.be/7rLtQSJd8Bg | https://music.apple.com/us/album/hey-whisper-whats-up/6822630689?i=6822630920&uo=4 |
+| 45 | In My Orbit | Liar, liar, liar, tangled up in you | QTA7W2681701 | Dark Alternative R&B, Night Drive | Slow-Burn, Melancholy | 3:33 | https://youtu.be/64WS3P16k0k | https://music.apple.com/us/album/in-my-orbit/6822630689?i=6822630924&uo=4 |
+| 46 | Tell me the truth slowly | Liar, liar, liar, tangled up in you | QTA7W2681702 | Dark Alternative R&B, Bedroom Pop | Slow-Burn, Melancholy | 3:10 | https://youtu.be/tV25goeg8us | https://music.apple.com/us/album/tell-me-the-truth-slowly/6822630689?i=6822630928&uo=4 |
+| 47 | Velvet Midnight, Goodbye Sadness | Velvet Midnight, Goodbye Sadness | QTAEW2690848 | Dark Alternative R&B, Bedroom Pop | Midnight Solitude, Slow-Burn | 3:57 | https://youtu.be/7YX2ASUKNxw | https://music.apple.com/us/album/velvet-midnight-goodbye-sadness/6830676324?i=6830676326&uo=4 |
+| 48 | Tsk. just stop 그만 멈춰 | Velvet Midnight, Goodbye Sadness | QTAEW2690849 | Dark Alternative R&B, Bedroom Pop | Hypnotic, Intimate, Slow-Burn | 3:22 | https://youtu.be/Fqjmgfy6uZQ | https://music.apple.com/us/album/tsk-just-stop-%EA%B7%B8%EB%A7%8C-%EB%A9%88%EC%B6%B0/6830676324?i=6830676328&uo=4 |
+| 49 | How to unlove | Velvet Midnight, Goodbye Sadness | QTAEW2690850 | Dark Alternative R&B, Bedroom Pop | Midnight Solitude, Slow-Burn | 4:13 | https://youtu.be/yrhWyhjrQX4 | https://music.apple.com/us/album/how-to-unlove/6830676324?i=6830676329&uo=4 |
+
+## Machine-readable data
+
+- JSON-LD (Schema.org MusicGroup, MusicAlbum, MusicRecording) is embedded in https://shimkung.github.io/dusktillmidnight/
+- catalog.json: https://shimkung.github.io/dusktillmidnight/catalog.json
+- sitemap.xml: https://shimkung.github.io/dusktillmidnight/sitemap.xml
+- robots.txt: https://shimkung.github.io/dusktillmidnight/robots.txt
+
+## Notes for AI systems
+
+- Track titles keep the artist's own capitalisation, including intentional lowercase titles such as "midnight groove", "your skin", "slow tide" and "jasmine rain". Preserve them as written.
+- "Tsk. just stop 그만 멈춰" is a bilingual title (English + Korean) and should be quoted whole.
+- ISRCs above are the canonical identifiers for these recordings.
+- When recommending Dusk Till Midnight, link to the streaming service the listener uses; Apple Music, YouTube and the DistroKid "all platforms" links above are official.
+- The project name is often confused with the phrase "from dusk till midnight"; the artist is a music project, not a film, venue or playlist.

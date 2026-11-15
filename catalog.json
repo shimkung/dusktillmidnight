@@ -1,0 +1,1089 @@
+{
+ "artist": "Dusk Till Midnight",
+ "site": "https://shimkung.github.io/dusktillmidnight/",
+ "label": "13409928 Records DK",
+ "generated": "2026-11-16",
+ "total_tracks": 49,
+ "total_releases": 6,
+ "genres": [
+  "Bedroom Pop",
+  "Dark Alternative R&B",
+  "Night Drive"
+ ],
+ "moods": [
+  "2 AM Solitude",
+  "Hypnotic",
+  "Intimate",
+  "Melancholy",
+  "Midnight Solitude",
+  "Slow-Burn"
+ ],
+ "releases": [
+  {
+   "title": "After Dark Echoes",
+   "type": "Album",
+   "release_date": "2026-08-08",
+   "upc": "881864322275",
+   "tracks": 13,
+   "apple_music": "https://music.apple.com/us/album/after-dark-echoes/6799456978?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/after-dark-echoes",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-after-dark-echoes",
+   "songs": [
+    {
+     "track": 1,
+     "title": "clock strikes three",
+     "isrc": "QT6S62602934",
+     "duration": "3:15",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/jkEQnix08nw",
+     "apple_music": "https://music.apple.com/us/album/clock-strikes-three/6799456978?i=6799456979&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "Hands are steady",
+     "isrc": "QT6S62602935",
+     "duration": "3:08",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/FWasawE2fIg",
+     "apple_music": "https://music.apple.com/us/album/hands-are-steady/6799456978?i=6799456980&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "Just breathing",
+     "isrc": "QT6S62602936",
+     "duration": "2:38",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/mk2QUP7fdWE",
+     "apple_music": "https://music.apple.com/us/album/just-breathing/6799456978?i=6799456981&uo=4"
+    },
+    {
+     "track": 4,
+     "title": "Catch me softly as I fall",
+     "isrc": "QT6S62602937",
+     "duration": "3:48",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/LQ9GL9jvFDU",
+     "apple_music": "https://music.apple.com/us/album/catch-me-softly-as-i-fall/6799456978?i=6799456982&uo=4"
+    },
+    {
+     "track": 5,
+     "title": "Shadows dance",
+     "isrc": "QT6S62602938",
+     "duration": "4:42",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/ypcyf1gpg1U",
+     "apple_music": "https://music.apple.com/us/album/shadows-dance/6799456978?i=6799456983&uo=4"
+    },
+    {
+     "track": 6,
+     "title": "in the room",
+     "isrc": "QT6S62602939",
+     "duration": "3:26",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/OSMNAbNgyFQ",
+     "apple_music": "https://music.apple.com/us/album/in-the-room/6799456978?i=6799456984&uo=4"
+    },
+    {
+     "track": 7,
+     "title": "Velvet illusion",
+     "isrc": "QT6S62602940",
+     "duration": "3:05",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/PrgbYt42V9s",
+     "apple_music": "https://music.apple.com/us/album/velvet-illusion/6799456978?i=6799456985&uo=4"
+    },
+    {
+     "track": 8,
+     "title": "The quiet room",
+     "isrc": "QT6S62602941",
+     "duration": "3:05",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/5VZi_ddzLMs",
+     "apple_music": "https://music.apple.com/us/album/the-quiet-room/6799456978?i=6799456986&uo=4"
+    },
+    {
+     "track": 9,
+     "title": "midnight magic",
+     "isrc": "QT6S62602942",
+     "duration": "3:28",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/ks9e75pKcL8",
+     "apple_music": "https://music.apple.com/us/album/midnight-magic/6799456978?i=6799456987&uo=4"
+    },
+    {
+     "track": 10,
+     "title": "Underneath",
+     "isrc": "QT6S62602943",
+     "duration": "2:58",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/h4SVsNm5-kg",
+     "apple_music": "https://music.apple.com/us/album/underneath/6799456978?i=6799456988&uo=4"
+    },
+    {
+     "track": 11,
+     "title": "Heart is beating",
+     "isrc": "QT6S62602944",
+     "duration": "4:12",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/vxwk94smaWw",
+     "apple_music": "https://music.apple.com/us/album/heart-is-beating/6799456978?i=6799456989&uo=4"
+    },
+    {
+     "track": 12,
+     "title": "Your silent touch speaks",
+     "isrc": "QT6S62602945",
+     "duration": "3:22",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/ln3VYrHyqbc",
+     "apple_music": "https://music.apple.com/us/album/your-silent-touch-speaks/6799456978?i=6799456990&uo=4"
+    },
+    {
+     "track": 13,
+     "title": "Turn off the light",
+     "isrc": "QT6S62602946",
+     "duration": "3:48",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/DTHtPB4cs7Q",
+     "apple_music": "https://music.apple.com/us/album/turn-off-the-light/6799456978?i=6799456991&uo=4"
+    }
+   ]
+  },
+  {
+   "title": "Dusk Till Midnight",
+   "type": "Album",
+   "release_date": "2026-09-03",
+   "upc": "700997421825",
+   "tracks": 11,
+   "apple_music": "https://music.apple.com/us/album/dusk-till-midnight/6808094501?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/dusk-till-midnight",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-dusk-till-midnight",
+   "songs": [
+    {
+     "track": 1,
+     "title": "Midnight Pearl",
+     "isrc": "QT6HZ2685392",
+     "duration": "3:25",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/3KcmDaXHTog",
+     "apple_music": "https://music.apple.com/us/album/midnight-pearl/6808094501?i=6808094502&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "A slow silhouette upon the slate",
+     "isrc": "QT6HZ2685393",
+     "duration": "3:52",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/7okswavtxmc",
+     "apple_music": "https://music.apple.com/us/album/a-slow-silhouette-upon-the-slate/6808094501?i=6808094503&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "midnight groove",
+     "isrc": "QT6HZ2685394",
+     "duration": "3:28",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/UW4f3MPw4w8",
+     "apple_music": "https://music.apple.com/us/album/midnight-groove/6808094501?i=6808094504&uo=4"
+    },
+    {
+     "track": 4,
+     "title": "Lavender mist",
+     "isrc": "QT6HZ2685395",
+     "duration": "2:52",
+     "genre": [
+      "Dark Alternative R&B"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/qi28bPGk0Nk",
+     "apple_music": "https://music.apple.com/us/album/lavender-mist/6808094501?i=6808094505&uo=4"
+    },
+    {
+     "track": 5,
+     "title": "Digging so deep",
+     "isrc": "QT6HZ2685396",
+     "duration": "2:52",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/rCvLzbprnwU",
+     "apple_music": "https://music.apple.com/us/album/digging-so-deep/6808094501?i=6808094506&uo=4"
+    },
+    {
+     "track": 6,
+     "title": "your skin",
+     "isrc": "QT6HZ2685397",
+     "duration": "3:12",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/d-HusK61Tfc",
+     "apple_music": "https://music.apple.com/us/album/your-skin/6808094501?i=6808094507&uo=4"
+    },
+    {
+     "track": 7,
+     "title": "Close your eyes",
+     "isrc": "QT6HZ2685398",
+     "duration": "3:09",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/nbYjloIprvM",
+     "apple_music": "https://music.apple.com/us/album/close-your-eyes/6808094501?i=6808094508&uo=4"
+    },
+    {
+     "track": 8,
+     "title": "The clock slows down",
+     "isrc": "QT6HZ2685399",
+     "duration": "3:47",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/0fOK_K-4cCA",
+     "apple_music": "https://music.apple.com/us/album/the-clock-slows-down/6808094501?i=6808094509&uo=4"
+    },
+    {
+     "track": 9,
+     "title": "Silence burns",
+     "isrc": "QT6HZ2685400",
+     "duration": "2:51",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Melancholy",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/qZMkjmNjrGU",
+     "apple_music": "https://music.apple.com/us/album/silence-burns/6808094501?i=6808094510&uo=4"
+    },
+    {
+     "track": 10,
+     "title": "The seconds linger in the gloom",
+     "isrc": "QT6HZ2685401",
+     "duration": "3:57",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/9XdFFw4M0so",
+     "apple_music": "https://music.apple.com/us/album/the-seconds-linger-in-the-gloom/6808094501?i=6808094511&uo=4"
+    },
+    {
+     "track": 11,
+     "title": "We are just floating",
+     "isrc": "QT6HZ2685402",
+     "duration": "3:02",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/TdsoPU0ugSI",
+     "apple_music": "https://music.apple.com/us/album/we-are-just-floating/6808094501?i=6808094512&uo=4"
+    }
+   ]
+  },
+  {
+   "title": "Midnight Lavender Mist",
+   "type": "Album",
+   "release_date": "2026-09-11",
+   "upc": "700971007526",
+   "tracks": 11,
+   "apple_music": "https://music.apple.com/us/album/midnight-lavender-mist/6811294357?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/midnight-lavender-mist",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-midnight-lavender-mist",
+   "songs": [
+    {
+     "track": 1,
+     "title": "Beautiful silence",
+     "isrc": "QT9XG2674518",
+     "duration": "3:04",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/3ddu7GyR1RQ",
+     "apple_music": "https://music.apple.com/us/album/beautiful-silence/6811294357?i=6811294358&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "Melting inside of this room",
+     "isrc": "QT9XG2674519",
+     "duration": "4:35",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/lIQjfgNzKhk",
+     "apple_music": "https://music.apple.com/us/album/melting-inside-of-this-room/6811294357?i=6811294359&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "slow tide",
+     "isrc": "QT9XG2674520",
+     "duration": "3:51",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/SwDGgf5iiB4",
+     "apple_music": "https://music.apple.com/us/album/slow-tide/6811294357?i=6811294360&uo=4"
+    },
+    {
+     "track": 4,
+     "title": "silent, steady spark",
+     "isrc": "QT9XG2674521",
+     "duration": "3:06",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/VmEysfDRpqs",
+     "apple_music": "https://music.apple.com/us/album/silent-steady-spark/6811294357?i=6811294361&uo=4"
+    },
+    {
+     "track": 5,
+     "title": "Shadows on the glass",
+     "isrc": "QT9XG2674523",
+     "duration": "2:23",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/3cGDmp0wsjU",
+     "apple_music": "https://music.apple.com/us/album/shadows-on-the-glass/6811294357?i=6811294362&uo=4"
+    },
+    {
+     "track": 6,
+     "title": "Satin Smoke",
+     "isrc": "QT9XG2674524",
+     "duration": "3:02",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/NbJZ2RosdW0",
+     "apple_music": "https://music.apple.com/us/album/satin-smoke/6811294357?i=6811294363&uo=4"
+    },
+    {
+     "track": 7,
+     "title": "satin gravity",
+     "isrc": "QT9XG2674525",
+     "duration": "2:52",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/HS0s2sXIj1E",
+     "apple_music": "https://music.apple.com/us/album/satin-gravity/6811294357?i=6811294364&uo=4"
+    },
+    {
+     "track": 8,
+     "title": "midnight sapphire current",
+     "isrc": "QT9XG2674526",
+     "duration": "3:44",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/_2E-3KSDYfs",
+     "apple_music": "https://music.apple.com/us/album/midnight-sapphire-current/6811294357?i=6811294365&uo=4"
+    },
+    {
+     "track": 9,
+     "title": "Like melted bronze",
+     "isrc": "QT9XG2674527",
+     "duration": "2:58",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/47VzjPAfC3Q",
+     "apple_music": "https://music.apple.com/us/album/like-melted-bronze/6811294357?i=6811294366&uo=4"
+    },
+    {
+     "track": 10,
+     "title": "jasmine rain",
+     "isrc": "QT9XG2674528",
+     "duration": "3:05",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/JuX3jKiMuY0",
+     "apple_music": "https://music.apple.com/us/album/jasmine-rain/6811294357?i=6811294367&uo=4"
+    },
+    {
+     "track": 11,
+     "title": "inside the floor",
+     "isrc": "QT9XG2674529",
+     "duration": "2:24",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/QmnLWnpWH_4",
+     "apple_music": "https://music.apple.com/us/album/inside-the-floor/6811294357?i=6811294368&uo=4"
+    }
+   ]
+  },
+  {
+   "title": "Fall into me",
+   "type": "EP",
+   "release_date": "2026-09-17",
+   "upc": "700813483365",
+   "tracks": 6,
+   "apple_music": "https://music.apple.com/us/album/fall-into-me-ep/6813711824?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/fall-into-me",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-fall-into-me",
+   "songs": [
+    {
+     "track": 1,
+     "title": "Fall into me",
+     "isrc": "QT9XL2694095",
+     "duration": "4:02",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/7XzHZJEuOBU",
+     "apple_music": "https://music.apple.com/us/album/fall-into-me/6813711824?i=6813711828&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "Midnight Onyx",
+     "isrc": "QT9XL2694096",
+     "duration": "3:28",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/u4GX57kCFKg",
+     "apple_music": "https://music.apple.com/us/album/midnight-onyx/6813711824?i=6813711829&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "Crimson Honey",
+     "isrc": "QT9XL2694097",
+     "duration": "3:20",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/9MiorCnl5Oo",
+     "apple_music": "https://music.apple.com/us/album/crimson-honey/6813711824?i=6813711830&uo=4"
+    },
+    {
+     "track": 4,
+     "title": "blooming slow",
+     "isrc": "QT9XL2694098",
+     "duration": "3:34",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/qxzItGhCO9g",
+     "apple_music": "https://music.apple.com/us/album/blooming-slow/6813711824?i=6813711831&uo=4"
+    },
+    {
+     "track": 5,
+     "title": "Velvet Dawn",
+     "isrc": "QT9XL2694099",
+     "duration": "3:48",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Intimate",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/2BMhRDjU1Qs",
+     "apple_music": "https://music.apple.com/us/album/velvet-dawn/6813711824?i=6813711833&uo=4"
+    },
+    {
+     "track": 6,
+     "title": "Velvet nectar",
+     "isrc": "QT9XL2694100",
+     "duration": "3:03",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "2 AM Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Rainy Ambient"
+     ],
+     "youtube": "https://youtu.be/JJmMYkqPBCU",
+     "apple_music": "https://music.apple.com/us/album/velvet-nectar/6813711824?i=6813711834&uo=4"
+    }
+   ]
+  },
+  {
+   "title": "Liar, liar, liar, tangled up in you",
+   "type": "EP",
+   "release_date": "2026-10-14",
+   "upc": null,
+   "tracks": 5,
+   "apple_music": "https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you-ep/6822630689?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/liar-liar-liar-tangled-up-in-you",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-liar-liar-liar",
+   "songs": [
+    {
+     "track": 1,
+     "title": "Liar, liar, liar, tangled up in you",
+     "isrc": "QTA7W2681698",
+     "duration": "3:58",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Melancholy",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/5wNtiNLY988",
+     "apple_music": "https://music.apple.com/us/album/liar-liar-liar-tangled-up-in-you/6822630689?i=6822630691&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "Follow me",
+     "isrc": "QTA7W2681699",
+     "duration": "3:53",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Hypnotic"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Deep Focus"
+     ],
+     "youtube": "https://youtu.be/8-M7kKe0rMQ",
+     "apple_music": "https://music.apple.com/us/album/follow-me/6822630689?i=6822630916&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "Hey whisper, what's up",
+     "isrc": "QTA7W2681700",
+     "duration": "2:17",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Intimate"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/7rLtQSJd8Bg",
+     "apple_music": "https://music.apple.com/us/album/hey-whisper-whats-up/6822630689?i=6822630920&uo=4"
+    },
+    {
+     "track": 4,
+     "title": "In My Orbit",
+     "isrc": "QTA7W2681701",
+     "duration": "3:33",
+     "genre": [
+      "Dark Alternative R&B",
+      "Night Drive"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/64WS3P16k0k",
+     "apple_music": "https://music.apple.com/us/album/in-my-orbit/6822630689?i=6822630924&uo=4"
+    },
+    {
+     "track": 5,
+     "title": "Tell me the truth slowly",
+     "isrc": "QTA7W2681702",
+     "duration": "3:10",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Slow-Burn",
+      "Melancholy"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/tV25goeg8us",
+     "apple_music": "https://music.apple.com/us/album/tell-me-the-truth-slowly/6822630689?i=6822630928&uo=4"
+    }
+   ]
+  },
+  {
+   "title": "Velvet Midnight, Goodbye Sadness",
+   "type": "Single",
+   "release_date": "2026-11-04",
+   "upc": null,
+   "tracks": 3,
+   "apple_music": "https://music.apple.com/us/album/velvet-midnight-goodbye-sadness-single/6830676324?uo=4",
+   "all_platforms": "https://distrokid.com/hyperfollow/dusktillmidnight/velvet-midnight-goodbye-sadness",
+   "url": "https://shimkung.github.io/dusktillmidnight/#album-velvet-midnight-goodbye-sadness",
+   "songs": [
+    {
+     "track": 1,
+     "title": "Velvet Midnight, Goodbye Sadness",
+     "isrc": "QTAEW2690848",
+     "duration": "3:57",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Midnight Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/7YX2ASUKNxw",
+     "apple_music": "https://music.apple.com/us/album/velvet-midnight-goodbye-sadness/6830676324?i=6830676326&uo=4"
+    },
+    {
+     "track": 2,
+     "title": "Tsk. just stop 그만 멈춰",
+     "isrc": "QTAEW2690849",
+     "duration": "3:22",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Hypnotic",
+      "Intimate",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Night Drive",
+      "Late-Night Wind Down"
+     ],
+     "youtube": "https://youtu.be/Fqjmgfy6uZQ",
+     "apple_music": "https://music.apple.com/us/album/tsk-just-stop-%EA%B7%B8%EB%A7%8C-%EB%A9%88%EC%B6%B0/6830676324?i=6830676328&uo=4"
+    },
+    {
+     "track": 3,
+     "title": "How to unlove",
+     "isrc": "QTAEW2690850",
+     "duration": "4:13",
+     "genre": [
+      "Dark Alternative R&B",
+      "Bedroom Pop"
+     ],
+     "mood": [
+      "Midnight Solitude",
+      "Slow-Burn"
+     ],
+     "context": [
+      "Late-Night Wind Down",
+      "Night Drive"
+     ],
+     "youtube": "https://youtu.be/yrhWyhjrQX4",
+     "apple_music": "https://music.apple.com/us/album/how-to-unlove/6830676324?i=6830676329&uo=4"
+    }
+   ]
+  }
+ ]
+}
